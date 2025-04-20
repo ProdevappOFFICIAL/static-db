@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "lastUpdated": "2025-04-18T14:00:00Z",
+  "totalQuestions": 450,
+  "UTME - 2023": [
+    {
+      "category": "Math",
+      "question": "Solve the equation: 3x² - 10x - 8 = 0.",
+      "correct_answer": "x = 4 or x = -2/3",
+      "incorrect_answers": ["x = 3 or x = -4/3", "x = 4 or x = 2/3", "x = -4 or x = 2/3"],
+      "text_explanation": "Using the quadratic formula: x = [-(-10) ± √((-10)² - 4(3)(-8))] / (2(3)) = [10 ± √(100 + 96)] / 6 = [10 ± √196] / 6 = [10 ± 14] / 6 = (10+14)/6 or (10-14)/6 = 24/6 or -4/6 = 4 or -2/3",
+      "video_explanation": ""
+    }
+  ],
+}
