@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2025-04-18T14:00:00Z",
-  "subjects": {
-    "Math": {
-      "version": 1,
-      "description": "Mathematics questions for UTME",
-      "size": "2.4MB",
-      "questionCount": 450
-    },
-    "English": {
-      "version": 1,
-      "description": "English Language questions for UTME",
-      "size": "3.1MB",
-      "questionCount": 520
-    },
-    "Physics": {
-      "version": 1,
-      "description": "Physics questions for UTME",
-      "size": "2.8MB",
-      "questionCount": 380
-    },
-    "Chemistry": {
-      "version": 1,
-      "description": "Chemistry questions for UTME",
-      "size": "2.6MB",
-      "questionCount": 410
-    },
-    "Biology": {
-      "version": 1,
-      "description": "Biology questions for UTME",
-      "size": "3.5MB",
-      "questionCount": 490
-    }
-  }
+  "math": "1.0.0",
+  "english": "1.0.0",
+  "physics": "1.0.0",
+  "chemistry": "1.0.0",
+  "biology": "1.0.0"
 }
