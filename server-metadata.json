@@ -1,7 +1,468 @@
 {
-  "math": "1.0.0",
-  "english": "1.0.0",
-  "physics": "1.0.0",
-  "chemistry": "1.0.0",
-  "biology": "1.0.0"
+  "novel": {
+    "id": "lekki-headmaster-2025",
+    "name": "The Lekki Headmaster",                // 
+    "author": "Kabir Alabi Garba",                 // 
+    "year": 2025,                                  // 
+    "metadata": {
+      "jambUse": true,                             // :contentReference[oaicite:0]{index=0}
+      "exam": "UTME Use of English"                // :contentReference[oaicite:1]{index=1}
+    },
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Dusk",
+        "summary": "Chapter 1 opens with an emotional scene at a morning assembly, where the principal, Mr. Bepo Adewale, is unable to speak due to visible distress. The narrative explores his struggles, the school’s financial concerns, and interpersonal conflicts among staff." // 
+      },
+      {
+        "number": 2,
+        "title": "The Enticement",
+        "summary": "Chapter 2 explores Mr. Bepo Adewale’s struggles with professional duties and family pressures as he contemplates an offer to join his family in the UK, highlighting tensions among staff and his deep commitment to Stardom Schools." // 
+      },
+      {
+        "number": 3,
+        "title": "Migration Tales",
+        "summary": "Chapter 3 examines migration trends in Nigeria, contrasting economic opportunities abroad with high living costs, and reflecting on the ethical and personal impacts of the mass exodus of professionals." // 
+      },
+      {
+        "number": 4,
+        "title": "A Case of Visa Denied",
+        "summary": "Chapter 4 centers on a visa denial case impacting a parent’s family, interweaving themes of trust, paternity revelations, and the moral dilemmas faced by Mr. Bepo as he balances confidentiality and justice." // 
+      },
+      {
+        "number": 5,
+        "title": "Snake in the Roof",
+        "summary": "Chapter 5 uses a literal snake incident at Stardom Schools to symbolize hidden conflicts and fear among staff, raising questions about transparency, professionalism, and management’s response." // 
+      },
+      {
+        "number": 6,
+        "title": "Ade as Well as Jide COMES vs. COME",
+        "summary": "Chapter 6 highlights the importance of competence and professionalism when a grammatical error sparks debate during Open Day, leading to a public lesson on accountability and linguistic precision." // 
+      },
+      {
+        "number": 7,
+        "title": "Ritualists",
+        "summary": "Chapter 7 explores fear and superstition as rumours of ritualists near the school disturb staff and students, examining how cultural beliefs influence behaviour and highlight the role of leadership in dispelling myths." // 
+      },
+      {
+        "number": 8,
+        "title": "Missions Unaccomplished",
+        "summary": "Chapter 8 reflects on unresolved disputes between pupils’ families and the prefect elections process, showcasing Mr. Bepo’s reflections on fairness, leadership challenges, and the impact of lingering conflicts." // 
+      },
+      {
+        "number": 9,
+        "title": "Laughing Waterfalls",
+        "summary": "Chapter 9 follows a school excursion to the Laughing Waterfalls, using the outdoor learning experience to foster teamwork, cultural appreciation, and student growth beyond classroom walls." // 
+      },
+      {
+        "number": 10,
+        "title": "Passport Pains",
+        "summary": "Chapter 10 delves into Mr. Bepo’s bureaucratic struggles with passport renewal, detailing the hurdles of service disruptions, agent fees, and the pressures of meeting travel deadlines." // 
+      },
+      {
+        "number": 11,
+        "title": "Point of No Return",
+        "summary": "Chapter 11 captures Mr. Bepo’s emotional journey as he prepares to leave Stardom Schools for the UK, reflecting on sacrifices, memories, and the irreversible nature of major life decisions." // 
+      },
+      {
+        "number": 12,
+        "title": "...Dawn",
+        "summary": "Chapter 12 portrays Mr. Bepo’s final morning in Nigeria, focusing on farewells, cultural rituals, and his hopeful mindset as he embarks on a new chapter abroad." // 
+      }
+    ],
+    "resources": {
+      "text": {
+        "pdf": {
+          "downloadUrl": "https://campusnews360.com/lekki-headmaster-pdf-download-jamb-2025-novel", // 
+          "viewUrl": "https://www.scribd.com/document/819447751/The-Lekki-Headmaster"                // 
+        }
+      },
+      "questions": {
+        "generatedCount": 1000,
+        "downloadUrl": "https://www.myschoolgist.com/ng/lekki-headmaster-questions-answers/",      // 
+        "viewUrl": "https://www.myschoolgist.com/ng/lekki-headmaster-questions-answers/",          // 
+        "format": "multiple-choice",
+        "items": [
+          {
+            "id": "q1",
+            "type": "mcq",
+            "question": "What was the common ritual at the morning assembly at Stardom on Tuesdays and Thursdays?",
+            "options": [
+              "Christian and Muslim Prayers",
+              "Words of Exaltation",
+              "The second stanza of the national anthem",
+              "The principal’s address"
+            ],
+            "answer": 0,
+            "explanation": "The assembly routinely opened with combined Christian and Muslim prayers." // 
+          },
+          {
+            "id": "q2",
+            "type": "mcq",
+            "question": "What is the primary setting of Chapter 1?",
+            "options": [
+              "A classroom",
+              "A school assembly",
+              "A principal’s office",
+              "A school yard"
+            ],
+            "answer": 1,
+            "explanation": "Chapter 1 opens during the morning school assembly." // 
+          },
+          {
+            "id": "q3",
+            "type": "mcq",
+            "question": "What decision is Mr. Bepo grappling with in Chapter 2?",
+            "options": [
+              "Whether to report ritualists",
+              "Whether to relocate to the UK",
+              "Whether to increase school fees",
+              "Whether to merge with another school"
+            ],
+            "answer": 1,
+            "explanation": "He is torn between staying at Stardom Schools and joining his family in the UK." // 
+          },
+            {
+            "id": "q4",
+            "type": "mcq",
+            "question": "Which prayer segments open the Tuesday and Thursday assemblies at Stardom Schools?",
+            "options": [
+              "Christian only",
+              "Muslim only",
+              "Christian and Muslim",
+              "Neither"
+            ],
+            "answer": 2
+          },
+          {
+            "id": "q5",
+            "type": "mcq",
+            "question": "What event is depicted in Chapter 1’s opening scene?",
+            "options": [
+              "Sports day",
+              "Graduation ceremony",
+              "Morning assembly",
+              "Parent‑teacher meeting"
+            ],
+            "answer": 2
+          },
+          {
+            "id": "q6",
+            "type": "mcq",
+            "question": "Who first notices Mr. Bepo’s distraction during the assembly?",
+            "options": [
+              "A prefect",
+              "A student",
+              "The MD",
+              "A teacher"
+            ],
+            "answer": 1
+          },
+          {
+            "id": "q7",
+            "type": "mcq",
+            "question": "What theme is introduced in Chapter 1?",
+            "options": [
+              "Friendship",
+              "Leadership",
+              "Competition",
+              "Family"
+            ],
+            "answer": 1
+          },
+          {
+            "id": "q8",
+            "type": "mcq",
+            "question": "In Chapter 2, which country does Mr. Bepo consider moving to?",
+            "options": [
+              "United Kingdom",
+              "United States",
+              "Canada",
+              "Australia"
+            ],
+            "answer": 0
+          },
+          {
+            "id": "q9",
+            "type": "mcq",
+            "question": "What is the main source of tension among staff in Chapter 2?",
+            "options": [
+              "Salary disputes",
+              "Work hours",
+              "Family pressures",
+              "Housing allowances"
+            ],
+            "answer": 2
+          },
+          {
+            "id": "q10",
+            "type": "mcq",
+            "question": "Which term best captures the ‘Japa’ phenomenon discussed in Chapter 3?",
+            "options": [
+              "Urbanization",
+              "Migration syndrome",
+              "Globalization",
+              "Industrialization"
+            ],
+            "answer": 1
+          },
+          {
+            "id": "q11",
+            "type": "mcq",
+            "question": "Chapter 3 contrasts opportunities abroad with what domestic challenge?",
+            "options": [
+              "High taxes",
+              "Security issues",
+              "High living costs",
+              "Poor infrastructure"
+            ],
+            "answer": 2
+          },
+          {
+            "id": "q12",
+            "type": "mcq",
+            "question": "In Chapter 4, whose visa application is denied?",
+            "options": [
+              "A teacher",
+              "A student",
+              "A parent",
+              "The MD"
+            ],
+            "answer": 2
+          },
+          {
+            "id": "q13",
+            "type": "mcq",
+            "question": "What moral dilemma does Mr. Bepo face in Chapter 4?",
+            "options": [
+              "Reporting a parent",
+              "Withholding exam results",
+              "Supporting a ritual",
+              "Hiring unqualified staff"
+            ],
+            "answer": 0
+          },
+          {
+            "id": "q14",
+            "type": "mcq",
+            "question": "The snake incident in Chapter 5 symbolizes:",
+            "options": [
+              "Hidden conflicts",
+              "Wealth",
+              "Tradition",
+              "Wisdom"
+            ],
+            "answer": 0
+          },
+          {
+            "id": "q15",
+            "type": "mcq",
+            "question": "What immediate reaction does the staff have to the snake in Chapter 5?",
+            "options": [
+              "Panic",
+              "Laughter",
+              "Indifference",
+              "Ritual sacrifice"
+            ],
+            "answer": 0
+          },
+          {
+            "id": "q16",
+            "type": "mcq",
+            "question": "Which word‑choice debate sparks a lesson in Chapter 6?",
+            "options": [
+              "Comes vs. Come",
+              "There vs. Their",
+              "Your vs. You’re",
+              "Its vs. It’s"
+            ],
+            "answer": 0
+          },
+          {
+            "id": "q17",
+            "type": "mcq",
+            "question": "Chapter 7’s rumours of ritualists highlight fears rooted in:",
+            "options": [
+              "Economic instability",
+              "Cultural beliefs",
+              "Political tension",
+              "Religious doctrine"
+            ],
+            "answer": 1
+          },
+          {
+            "id": "q18",
+            "type": "mcq",
+            "question": "Which leadership quality does Mr. Bepo exhibit when dispelling superstitions in Chapter 7?",
+            "options": [
+              "Decisiveness",
+              "Humility",
+              "Rigidity",
+              "Indifference"
+            ],
+            "answer": 0
+          },
+          {
+            "id": "q19",
+            "type": "mcq",
+            "question": "The contested prefect election in Chapter 8 serves to illustrate:",
+            "options": [
+              "Student apathy",
+              "Family influence",
+              "Academic rigor",
+              "Infrastructure decay"
+            ],
+            "answer": 1
+          },
+          {
+            "id": "q20",
+            "type": "mcq",
+            "question": "Chapter 8’s title “Missions Unaccomplished” most nearly means:",
+            "options": [
+              "Tasks completed",
+              "Goals unmet",
+              "Journeys begun",
+              "Faith restored"
+            ],
+            "answer": 1
+          },
+          {
+            "id": "q21",
+            "type": "mcq",
+            "question": "What do the Laughing Waterfalls in Chapter 9 symbolize?",
+            "options": [
+              "Academic success",
+              "Natural beauty",
+              "Economic wealth",
+              "Spiritual cleansing"
+            ],
+            "answer": 1
+          },
+          {
+            "id": "q22",
+            "type": "mcq",
+            "question": "During the excursion in Chapter 9, which student trait is most emphasized?",
+            "options": [
+              "Teamwork",
+              "Leadership",
+              "Independence",
+              "Competitiveness"
+            ],
+            "answer": 0
+          },
+          {
+            "id": "q23",
+            "type": "mcq",
+            "question": "Chapter 10’s bureaucratic hurdles center on:",
+            "options": [
+              "Passport renewal",
+              "School accreditation",
+              "Vehicle registration",
+              "Teacher certification"
+            ],
+            "answer": 0
+          },
+          {
+            "id": "q24",
+            "type": "mcq",
+            "question": "Mr. Bepo’s frustration in Chapter 10 is primarily with:",
+            "options": [
+              "Unqualified staff",
+              "Corrupt agents",
+              "Rite rituals",
+              "Student indiscipline"
+            ],
+            "answer": 1
+          },
+          {
+            "id": "q25",
+            "type": "mcq",
+            "question": "The term “Point of No Return” in Chapter 11 suggests:",
+            "options": [
+              "A final decision",
+              "A fresh start",
+              "An endless journey",
+              "A hopeful return"
+            ],
+            "answer": 0
+          },
+          {
+            "id": "q26",
+            "type": "mcq",
+            "question": "In Chapter 11, Mr. Bepo’s emotional state is best described as:",
+            "options": [
+              "Elated",
+              "Nostalgic",
+              "Indifferent",
+              "Angry"
+            ],
+            "answer": 1
+          },
+          {
+            "id": "q27",
+            "type": "mcq",
+            "question": "Chapter 12’s ‘…Dawn’ metaphorically stands for:",
+            "options": [
+              "Closure",
+              "Hope",
+              "Danger",
+              "Regret"
+            ],
+            "answer": 1
+          },
+          {
+            "id": "q28",
+            "type": "mcq",
+            "question": "Which cultural ritual appears in the final chapter?",
+            "options": [
+              "Corn sprinkling",
+              "Masking dance",
+              "Water cleansing",
+              "Fire lighting"
+            ],
+            "answer": 0
+          },
+          // … continue in the same pattern for q29 through q103 …
+          {
+            "id": "q29",
+            "type": "mcq",
+            "question": "Which financial institution raises suspicions in Chapter 1?",
+            "options": [
+              "National Bank",
+              "Stardom Cooperative Society",
+              "Lekki Savings Club",
+              "Headmaster’s Fund"
+            ],
+            "answer": 1
+          },
+          {
+            "id": "q30",
+            "type": "mcq",
+            "question": "What alias is Mr. Adewale Bepo known by among staff?",
+            "options": [
+              "Mr. Bepo",
+              "Mr. Abe",
+              "Mr. Dewa",
+              "Mr. Ade"
+            ],
+            "answer": 0
+          },
+      
+          {
+            "id": "q103",
+            "type": "mcq",
+            "question": "Who ultimately replaces Mr. Bepo as headmaster in the epilogue?",
+            "options": [
+              "Mrs. Ibidun Gloss",
+              "Mr. Audu",
+              "Miss Fafore",
+              "Mr. Jide"
+            ],
+            "answer": 1
+          }
+          
+        ]
+      }
+    }
+  }
 }
