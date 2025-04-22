@@ -1,12 +1,12 @@
 {
   "novel": {
     "id": "lekki-headmaster-2025",
-    "name": "The Lekki Headmaster",                // 
-    "author": "Kabir Alabi Garba",                 // 
-    "year": 2025,                                  // 
+    "name": "The Lekki Headmaster",               
+    "author": "Kabir Alabi Garba",                
+    "year": 2025,                              
     "metadata": {
-      "jambUse": true,                             // :contentReference[oaicite:0]{index=0}
-      "exam": "UTME Use of English"                // :contentReference[oaicite:1]{index=1}
+      "jambUse": true,                             
+      "exam": "UTME Use of English"              
     },
     "chapters": [
       {
