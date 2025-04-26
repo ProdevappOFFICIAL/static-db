@@ -19,8 +19,8 @@
     "visible": true,
     "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/utsc-template.zip",
     "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/main/templates/images/utsc-exam-1.jpg",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/main/templates/images/utsc-exam-2.jpg"
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG"
     ]
   },
   {
@@ -31,7 +31,7 @@
     "visible": true,
     "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/main/templates/classic-exam-template.zip",
     "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/main/templates/images/classic-exam-preview.jpg"
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-006.JPG"
     ]
   },
   {
@@ -42,7 +42,7 @@
     "visible": false,
     "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/main/templates/hidden-template.zip",
     "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/main/templates/images/hidden-preview.jpg"
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-001.JPG"
     ]
   },  {
     "id": "5",
@@ -52,7 +52,7 @@
     "visible": true,
     "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/modern-exam-template.zip",
     "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/main/templates/images/modern-exam-1.jpg",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-003.JPG",
       "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/main/templates/images/modern-exam-2.jpg"
     ]
   }
