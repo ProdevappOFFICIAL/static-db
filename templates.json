@@ -2,8 +2,8 @@
   {
     "name": "LearningDeck Template",
     "price": 10,
-    "status": "available",    // or "coming soon"
-    "visible": true,          // if false, hide it from store
+    "status": "available",    
+    "visible": true,          
     "downloadLink": "https://github.com/yourrepo/path/to/awesome-portfolio.zip",
     "pictures": [
       "https://yourcdn.com/images/portfolio1.png",
