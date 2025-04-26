@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "name": "Modern Exam Template",
+    "name": "UTSC Exam Template",
     "price": 0,
     "status": "available",
     "visible": true,
@@ -13,11 +13,11 @@
   },
   {
     "id": "2",
-    "name": "UTSC Exam Template",
+    "name": "Exam Matrix Template",
     "price": 0,
     "status": "available",
     "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/main/templates/utsc-exam-template.zip",
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/utsc-template.zip",
     "pictures": [
       "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/main/templates/images/utsc-exam-1.jpg",
       "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/main/templates/images/utsc-exam-2.jpg"
