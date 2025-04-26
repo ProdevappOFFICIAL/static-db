@@ -5,7 +5,7 @@
     "price": 0,
     "status": "available",
     "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/main/templates/modern-exam-template.zip",
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/modern-exam-template.zip",
     "pictures": [
       "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/main/templates/images/modern-exam-1.jpg",
       "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/main/templates/images/modern-exam-2.jpg"
