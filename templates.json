@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "UTSC Exam Template",
-    "price": 0,
+    "price": 30,
     "status": "available",
     "visible": true,
     "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/modern-exam-template.zip",
@@ -14,7 +14,7 @@
   {
     "id": "2",
     "name": "Exam Matrix Template",
-    "price": 0,
+    "price": 100,
     "status": "available",
     "visible": true,
     "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/utsc-template.zip",
@@ -26,7 +26,7 @@
   {
     "id": "3",
     "name": "Classic Exam Template",
-    "price": 9.99,
+    "price": 200,
     "status": "coming soon",
     "visible": true,
     "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/main/templates/classic-exam-template.zip",
