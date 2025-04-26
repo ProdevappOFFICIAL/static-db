@@ -1,23 +1,48 @@
 [
   {
-    "name": "LearningDeck Template",
-    "price": 10,
-    "status": "available",    
-    "visible": true,          
-    "downloadLink": "https://github.com/yourrepo/path/to/awesome-portfolio.zip",
+    "id": "1",
+    "name": "Modern Exam Template",
+    "price": 0,
+    "status": "available",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/main/templates/modern-exam-template.zip",
     "pictures": [
-      "https://yourcdn.com/images/portfolio1.png",
-      "https://yourcdn.com/images/portfolio2.png"
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/main/templates/images/modern-exam-1.jpg",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/main/templates/images/modern-exam-2.jpg"
     ]
   },
   {
-    "name": "Futa Template",
-    "price": 15,
+    "id": "2",
+    "name": "UTSC Exam Template",
+    "price": 0,
     "status": "available",
     "visible": true,
-    "downloadLink": "https://github.com/yourrepo/path/to/modern-blog.zip",
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/main/templates/utsc-exam-template.zip",
     "pictures": [
-      "https://yourcdn.com/images/blog1.png"
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/main/templates/images/utsc-exam-1.jpg",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/main/templates/images/utsc-exam-2.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Classic Exam Template",
+    "price": 9.99,
+    "status": "coming soon",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/main/templates/classic-exam-template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/main/templates/images/classic-exam-preview.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Hidden Template",
+    "price": 0,
+    "status": "available",
+    "visible": false,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/main/templates/hidden-template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/main/templates/images/hidden-preview.jpg"
     ]
   }
 ]
