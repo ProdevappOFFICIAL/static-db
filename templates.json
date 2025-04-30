@@ -1,5 +1,5 @@
 [
-   {
+  {
     "id": "1",
     "name": "Learning Deck Web Client",
     "price": 50,
@@ -35,7 +35,7 @@
       "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG"
     ]
   },
-   {
+  {
     "id": "4",
     "name": "Exam Matrix Premium",
     "price": 100,
