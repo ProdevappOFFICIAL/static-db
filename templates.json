@@ -1,6 +1,19 @@
 [
-  {
+
+   {
     "id": "1",
+    "name": "Learning Deck Web Client",
+    "price": 0,
+    "status": "available",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/lds_template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-007.JPG",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-008.JPG"
+    ]
+  }
+  {
+    "id": "2",
     "name": "UTSC Exam Template",
     "price": 30,
     "status": "available",
@@ -12,8 +25,20 @@
     ]
   },
   {
-    "id": "2",
-    "name": "Exam Matrix Template",
+    "id": "3",
+    "name": "Exam Matrix Pro",
+    "price": 100,
+    "status": "available",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/utsc-template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG"
+    ]
+  },
+   {
+    "id": "4",
+    "name": "Exam Matrix Premium",
     "price": 100,
     "status": "available",
     "visible": true,
@@ -24,7 +49,7 @@
     ]
   },
   {
-    "id": "3",
+    "id": "5",
     "name": "Classic Exam Template",
     "price": 200,
     "status": "coming soon",
@@ -43,17 +68,6 @@
     "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/main/templates/hidden-template.zip",
     "pictures": [
       "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-001.JPG"
-    ]
-  },  {
-    "id": "5",
-    "name": "Modern Exam Template 2",
-    "price": 0,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/modern-exam-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-003.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/main/templates/images/modern-exam-2.jpg"
     ]
   }
 ]
