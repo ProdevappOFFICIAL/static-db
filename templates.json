@@ -48,17 +48,6 @@
     ]
   },
   {
-    "id": "5",
-    "name": "Classic Exam Template",
-    "price": 200,
-    "status": "coming soon",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/main/templates/classic-exam-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-006.JPG"
-    ]
-  },
-  {
     "id": "6",
     "name": "Hidden Template",
     "price": 0,
