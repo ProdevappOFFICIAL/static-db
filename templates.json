@@ -48,6 +48,18 @@
     ]
   },
   {
+    "id": "5",
+    "name": "Study Flow Dashboard v2.1",
+    "price": 75,
+    "status": "available",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/study-flow-template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-003.JPG",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-004.JPG"
+    ]
+  },
+  {
     "id": "6",
     "name": "Hidden Template",
     "price": 0,
@@ -56,6 +68,174 @@
     "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/main/templates/hidden-template.zip",
     "pictures": [
       "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-001.JPG"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Quiz Builder Elite",
+    "price": 85,
+    "status": "available",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/quiz-builder-template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-006.JPG",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-007.JPG"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Academic Portal Starter",
+    "price": 45,
+    "status": "available",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/academic-portal-template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-001.JPG",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-008.JPG"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "TestCraft Professional",
+    "price": 120,
+    "status": "available",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/testcraft-template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-002.JPG",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-003.JPG"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Learning Hub Express",
+    "price": 60,
+    "status": "available",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/learning-hub-template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-004.JPG",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Exam Suite Advanced",
+    "price": 95,
+    "status": "available",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/exam-suite-template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-006.JPG",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-001.JPG"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Study Cards Master",
+    "price": 40,
+    "status": "available",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/study-cards-template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-007.JPG",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-002.JPG"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Assessment Pro Framework",
+    "price": 110,
+    "status": "available",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/assessment-pro-template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-008.JPG",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-003.JPG"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "EduFlow Interactive",
+    "price": 65,
+    "status": "available",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/eduflow-template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-004.JPG",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-006.JPG"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Smart Quiz Engine",
+    "price": 80,
+    "status": "available",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/smart-quiz-template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-007.JPG"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Course Builder Lite",
+    "price": 35,
+    "status": "available",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/course-builder-template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-001.JPG",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-004.JPG"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Testing Platform Ultimate",
+    "price": 150,
+    "status": "available",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/testing-platform-template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-002.JPG",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-006.JPG"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Academic Dashboard v3.0",
+    "price": 90,
+    "status": "available",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/academic-dashboard-template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-003.JPG",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-008.JPG"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Study Companion Plus",
+    "price": 55,
+    "status": "available",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/study-companion-template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-001.JPG"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Evaluation Matrix Core",
+    "price": 70,
+    "status": "available",
+    "visible": true,
+    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/evaluation-matrix-template.zip",
+    "pictures": [
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-007.JPG",
+      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-004.JPG"
     ]
   }
 ]
