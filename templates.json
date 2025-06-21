@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Learning Deck Web Client v1.0.1",
-    "price": "free",
+    "price": "0",
     "status": "available",
     "visible": true,
     "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/lds_template.zip",
