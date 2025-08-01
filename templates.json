@@ -1,242 +1,537 @@
-[
-  {
-    "id": "1",
-    "name": "Learning Deck Web Client v1.0.4",
-    "price": "0",
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://prodevappofficial.github.io/static-db/lds_template.zip",
-    "pictures": [
-      "https://prodevappofficial.github.io/static-db/homepage.lds.web.JPG",
-      "https://prodevappofficial.github.io/static-db/examsetting.lds.web.JPG",
+{
+  "templates": [
+    {
+      "id": "template_001",
+      "name": "Modern Exam Template",
+      "description": "A sleek and modern template for online examinations with responsive design",
+      "version": "2.1.0",
+      "lastModified": "2025-01-15T10:30:00Z",
+      "downloadLink": "https://github.com/user/repo/releases/download/v2.1.0/modern-exam-template.zip",
+      "previewImage": "https://example.com/previews/modern-exam.jpg",
+      "category": "exam",
+      "tags": ["modern", "responsive", "exam", "learning"],
+      "visible": true,
+      "featured": true,
+      "compatibility": {
+        "minAppVersion": "1.0.0",
+        "maxAppVersion": null
+      },
+      "changelog": {
+        "2.1.0": [
+          "Added dark mode support",
+          "Improved mobile responsiveness",
+          "Fixed timer display issues"
+        ],
+        "2.0.0": [
+          "Complete UI redesign",
+          "Added new question types",
+          "Performance improvements"
+        ]
+      },
+      "updatePriority": "recommended",
+      "fileSize": "2.5MB",
+      "author": {
+        "name": "LearningDeck Team",
+        "email": "support@learningdeck.com"
+      },
+      "license": "MIT",
+      "dependencies": [],
+      "features": [
+        "Responsive Design",
+        "Timer Functionality",
+        "Multiple Question Types",
+        "Progress Tracking"
+      ],
+      "price": "0",
+      "status": "available",
+      "pictures": [
+        "https://example.com/previews/modern-exam.jpg"
+      ]
+    },
+    {
+      "id": "template_002", 
+      "name": "UTSC Exam Template",
+      "description": "University-style examination template with academic formatting",
+      "version": "1.8.2",
+      "lastModified": "2025-01-10T14:20:00Z",
+      "downloadLink": "https://github.com/user/repo/releases/download/v1.8.2/utsc-exam-template.zip",
+      "previewImage": "https://example.com/previews/utsc-exam.jpg",
+      "category": "academic",
+      "tags": ["university", "academic", "formal", "learning"],
+      "visible": true,
+      "featured": false,
+      "compatibility": {
+        "minAppVersion": "1.0.0",
+        "maxAppVersion": null
+      },
+      "changelog": {
+        "1.8.2": [
+          "Fixed header alignment",
+          "Updated font styles",
+          "Minor bug fixes"
+        ],
+        "1.8.0": [
+          "Added student information section",
+          "Improved print layout",
+          "Enhanced accessibility"
+        ]
+      },
+      "updatePriority": "optional",
+      "fileSize": "1.8MB",
+      "author": {
+        "name": "Academic Templates",
+        "email": "academic@templates.com"
+      },
+      "license": "Creative Commons",
+      "dependencies": [],
+      "features": [
+        "Academic Layout",
+        "Print Optimized",
+        "Student Info Section",
+        "Formal Styling"
+      ],
+      "price": 30,
+      "status": "available",
+      "pictures": [
+        "https://example.com/previews/utsc-exam.jpg"
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Learning Deck Web Client v1.0.4",
+      "description": "Learning Deck Web Client template for educational platforms",
+      "version": "1.0.4",
+      "lastModified": "2025-01-15T10:00:00Z",
+      "downloadLink": "https://prodevappofficial.github.io/static-db/lds_template.zip",
+      "previewImage": "https://prodevappofficial.github.io/static-db/homepage.lds.web.JPG",
+      "category": "exam",
+      "tags": ["learning", "web-client", "educational", "platform"],
+      "visible": true,
+      "featured": false,
+      "compatibility": {
+        "minAppVersion": "1.0.0",
+        "maxAppVersion": null
+      },
+      "changelog": {
+        "1.0.4": [
+          "Initial release",
+          "Basic functionality implemented"
+        ]
+      },
+      "updatePriority": "stable",
+      "fileSize": "3.2MB",
+      "author": {
+        "name": "ProdevApp Team",
+        "email": "support@prodevapp.com"
+      },
+      "license": "MIT",
+      "dependencies": [],
+      "features": [
+        "Web Client Interface",
+        "Educational Platform",
+        "User Management",
+        "Responsive Design"
+      ],
+      "price": "0",
+      "status": "available",
+      "pictures": [
+        "https://prodevappofficial.github.io/static-db/homepage.lds.web.JPG",
+        "https://prodevappofficial.github.io/static-db/examsetting.lds.web.JPG",
         "https://prodevappofficial.github.io/static-db/exam.page.lds.web.JPG"
-    ]
-  },
-  {
-    "id": "2",
-    "name": "UTSC Exam Template",
-    "price": 30,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/modern-exam-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-002.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-002.JPG"
-    ]
-  },
-  {
-    "id": "3",
-    "name": "Exam Matrix Pro",
-    "price": 100,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/utsc-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG"
-    ]
-  },
-  {
-    "id": "4",
-    "name": "Exam Matrix Premium",
-    "price": 100,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/utsc-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG"
-    ]
-  },
-  {
-    "id": "5",
-    "name": "Study Flow Dashboard v2.1",
-    "price": 75,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/study-flow-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-003.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-004.JPG"
-    ]
-  },
-  {
-    "id": "6",
-    "name": "Hidden Template",
-    "price": 0,
-    "status": "available",
-    "visible": false,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/main/templates/hidden-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-001.JPG"
-    ]
-  },
-  {
-    "id": "7",
-    "name": "Quiz Builder Elite",
-    "price": 85,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/quiz-builder-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-006.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-007.JPG"
-    ]
-  },
-  {
-    "id": "8",
-    "name": "Academic Portal Starter",
-    "price": 45,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/academic-portal-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-001.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-008.JPG"
-    ]
-  },
-  {
-    "id": "9",
-    "name": "TestCraft Professional",
-    "price": 120,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/testcraft-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-002.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-003.JPG"
-    ]
-  },
-  {
-    "id": "10",
-    "name": "Futa Template",
-    "price": 60,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/learning-hub-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-004.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG"
-    ]
-  },
-  {
-    "id": "11",
-    "name": "Exam Suite Advanced",
-    "price": 95,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/exam-suite-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-006.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-001.JPG"
-    ]
-  },
-  {
-    "id": "12",
-    "name": "Study Cards Master",
-    "price": 40,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/study-cards-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-007.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-002.JPG"
-    ]
-  },
-  {
-    "id": "13",
-    "name": "Assessment Pro Framework",
-    "price": 110,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/assessment-pro-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-008.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-003.JPG"
-    ]
-  },
-  {
-    "id": "14",
-    "name": "EduFlow Interactive",
-    "price": 65,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/eduflow-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-004.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-006.JPG"
-    ]
-  },
-  {
-    "id": "15",
-    "name": "Smart Quiz Engine",
-    "price": 80,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/smart-quiz-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-007.JPG"
-    ]
-  },
-  {
-    "id": "16",
-    "name": "Course Builder Lite",
-    "price": 35,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/course-builder-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-001.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-004.JPG"
-    ]
-  },
-  {
-    "id": "17",
-    "name": "Testing Platform Ultimate",
-    "price": 150,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/testing-platform-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-002.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-006.JPG"
-    ]
-  },
-  {
-    "id": "18",
-    "name": "Academic Dashboard v3.0",
-    "price": 90,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/academic-dashboard-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-003.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-008.JPG"
-    ]
-  },
-  {
-    "id": "19",
-    "name": "Study Companion Plus",
-    "price": 55,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/study-companion-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-001.JPG"
-    ]
-  },
-  {
-    "id": "20",
-    "name": "Evaluation Matrix Core",
-    "price": 70,
-    "status": "available",
-    "visible": true,
-    "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/evaluation-matrix-template.zip",
-    "pictures": [
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-007.JPG",
-      "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-004.JPG"
-    ]
+      ]
+    },
+    {
+      "id": "2",
+      "name": "UTSC Exam Template",
+      "description": "UTSC-style examination template with university formatting",
+      "version": "1.0.0",
+      "lastModified": "2025-01-15T10:00:00Z",
+      "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/modern-exam-template.zip",
+      "previewImage": "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-002.JPG",
+      "category": "academic",
+      "tags": ["utsc", "university", "exam", "academic"],
+      "visible": true,
+      "featured": false,
+      "compatibility": {
+        "minAppVersion": "1.0.0",
+        "maxAppVersion": null
+      },
+      "changelog": {
+        "1.0.0": [
+          "Initial release",
+          "UTSC formatting implemented"
+        ]
+      },
+      "updatePriority": "stable",
+      "fileSize": "2.1MB",
+      "author": {
+        "name": "ProdevApp Team",
+        "email": "support@prodevapp.com"
+      },
+      "license": "MIT",
+      "dependencies": [],
+      "features": [
+        "UTSC Formatting",
+        "University Layout",
+        "Academic Design",
+        "Professional Styling"
+      ],
+      "price": 30,
+      "status": "available",
+      "pictures": [
+        "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-002.JPG",
+        "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-002.JPG"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Exam Matrix Pro",
+      "description": "Professional exam matrix template with advanced features",
+      "version": "1.0.0",
+      "lastModified": "2025-01-15T10:00:00Z",
+      "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/utsc-template.zip",
+      "previewImage": "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG",
+      "category": "exam",
+      "tags": ["matrix", "professional", "advanced", "exam"],
+      "visible": true,
+      "featured": false,
+      "compatibility": {
+        "minAppVersion": "1.0.0",
+        "maxAppVersion": null
+      },
+      "changelog": {
+        "1.0.0": [
+          "Initial release",
+          "Matrix functionality implemented"
+        ]
+      },
+      "updatePriority": "stable",
+      "fileSize": "2.8MB",
+      "author": {
+        "name": "ProdevApp Team",
+        "email": "support@prodevapp.com"
+      },
+      "license": "MIT",
+      "dependencies": [],
+      "features": [
+        "Matrix Layout",
+        "Advanced Features",
+        "Professional Design",
+        "Customizable Interface"
+      ],
+      "price": 100,
+      "status": "available",
+      "pictures": [
+        "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG",
+        "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Exam Matrix Premium",
+      "description": "Premium version of exam matrix template with enhanced capabilities",
+      "version": "1.0.0",
+      "lastModified": "2025-01-15T10:00:00Z",
+      "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/utsc-template.zip",
+      "previewImage": "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG",
+      "category": "exam",
+      "tags": ["matrix", "premium", "enhanced", "exam"],
+      "visible": true,
+      "featured": false,
+      "compatibility": {
+        "minAppVersion": "1.0.0",
+        "maxAppVersion": null
+      },
+      "changelog": {
+        "1.0.0": [
+          "Initial release",
+          "Premium features implemented"
+        ]
+      },
+      "updatePriority": "stable",
+      "fileSize": "3.1MB",
+      "author": {
+        "name": "ProdevApp Team",
+        "email": "support@prodevapp.com"
+      },
+      "license": "MIT",
+      "dependencies": [],
+      "features": [
+        "Premium Features",
+        "Enhanced Matrix Layout",
+        "Advanced Customization",
+        "Professional Interface"
+      ],
+      "price": 100,
+      "status": "available",
+      "pictures": [
+        "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG",
+        "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Study Flow Dashboard v2.1",
+      "description": "Advanced study flow dashboard with comprehensive tracking features",
+      "version": "2.1.0",
+      "lastModified": "2025-01-15T10:00:00Z",
+      "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/study-flow-template.zip",
+      "previewImage": "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-003.JPG",
+      "category": "academic",
+      "tags": ["study", "dashboard", "tracking", "flow"],
+      "visible": true,
+      "featured": false,
+      "compatibility": {
+        "minAppVersion": "1.0.0",
+        "maxAppVersion": null
+      },
+      "changelog": {
+        "2.1.0": [
+          "Dashboard improvements",
+          "Enhanced tracking features"
+        ]
+      },
+      "updatePriority": "recommended",
+      "fileSize": "2.7MB",
+      "author": {
+        "name": "ProdevApp Team",
+        "email": "support@prodevapp.com"
+      },
+      "license": "MIT",
+      "dependencies": [],
+      "features": [
+        "Study Dashboard",
+        "Progress Tracking",
+        "Flow Management",
+        "Analytics Integration"
+      ],
+      "price": 75,
+      "status": "available",
+      "pictures": [
+        "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-003.JPG",
+        "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-004.JPG"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Hidden Template",
+      "description": "Hidden template for internal use with specialized features",
+      "version": "1.0.0",
+      "lastModified": "2025-01-15T10:00:00Z",
+      "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/main/templates/hidden-template.zip",
+      "previewImage": "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-001.JPG",
+      "category": "internal",
+      "tags": ["hidden", "internal", "specialized", "private"],
+      "visible": false,
+      "featured": false,
+      "compatibility": {
+        "minAppVersion": "1.0.0",
+        "maxAppVersion": null
+      },
+      "changelog": {
+        "1.0.0": [
+          "Initial release",
+          "Specialized features implemented"
+        ]
+      },
+      "updatePriority": "stable",
+      "fileSize": "1.5MB",
+      "author": {
+        "name": "ProdevApp Team",
+        "email": "support@prodevapp.com"
+      },
+      "license": "Private",
+      "dependencies": [],
+      "features": [
+        "Internal Use",
+        "Specialized Features",
+        "Private Access",
+        "Custom Functionality"
+      ],
+      "price": 0,
+      "status": "available",
+      "pictures": [
+        "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-001.JPG"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Quiz Builder Elite",
+      "description": "Elite quiz building template with advanced question types and analytics",
+      "version": "1.0.0",
+      "lastModified": "2025-01-15T10:00:00Z",
+      "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/quiz-builder-template.zip",
+      "previewImage": "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-006.JPG",
+      "category": "quiz",
+      "tags": ["quiz", "builder", "elite", "analytics"],
+      "visible": true,
+      "featured": false,
+      "compatibility": {
+        "minAppVersion": "1.0.0",
+        "maxAppVersion": null
+      },
+      "changelog": {
+        "1.0.0": [
+          "Initial release",
+          "Elite features implemented"
+        ]
+      },
+      "updatePriority": "stable",
+      "fileSize": "3.3MB",
+      "author": {
+        "name": "ProdevApp Team",
+        "email": "support@prodevapp.com"
+      },
+      "license": "MIT",
+      "dependencies": [],
+      "features": [
+        "Advanced Quiz Builder",
+        "Multiple Question Types",
+        "Analytics Dashboard",
+        "Elite Features"
+      ],
+      "price": 85,
+      "status": "available",
+      "pictures": [
+        "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-006.JPG",
+        "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-007.JPG"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Academic Portal Starter",
+      "description": "Starter template for academic portals with essential features",
+      "version": "1.0.0",
+      "lastModified": "2025-01-15T10:00:00Z",
+      "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/academic-portal-template.zip",
+      "previewImage": "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-001.JPG",
+      "category": "academic",
+      "tags": ["academic", "portal", "starter", "essential"],
+      "visible": true,
+      "featured": false,
+      "compatibility": {
+        "minAppVersion": "1.0.0",
+        "maxAppVersion": null
+      },
+      "changelog": {
+        "1.0.0": [
+          "Initial release",
+          "Essential features implemented"
+        ]
+      },
+      "updatePriority": "stable",
+      "fileSize": "2.2MB",
+      "author": {
+        "name": "ProdevApp Team",
+        "email": "support@prodevapp.com"
+      },
+      "license": "MIT",
+      "dependencies": [],
+      "features": [
+        "Academic Portal",
+        "Essential Features",
+        "Starter Template",
+        "User Management"
+      ],
+      "price": 45,
+      "status": "available",
+      "pictures": [
+        "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-001.JPG",
+        "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-008.JPG"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "TestCraft Professional",
+      "description": "Professional test crafting template with comprehensive testing features",
+      "version": "1.0.0",
+      "lastModified": "2025-01-15T10:00:00Z",
+      "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/testcraft-template.zip",
+      "previewImage": "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-002.JPG",
+      "category": "exam",
+      "tags": ["test", "craft", "professional", "comprehensive"],
+      "visible": true,
+      "featured": false,
+      "compatibility": {
+        "minAppVersion": "1.0.0",
+        "maxAppVersion": null
+      },
+      "changelog": {
+        "1.0.0": [
+          "Initial release",
+          "Professional features implemented"
+        ]
+      },
+      "updatePriority": "stable",
+      "fileSize": "3.5MB",
+      "author": {
+        "name": "ProdevApp Team",
+        "email": "support@prodevapp.com"
+      },
+      "license": "MIT",
+      "dependencies": [],
+      "features": [
+        "Test Crafting",
+        "Professional Tools",
+        "Comprehensive Testing",
+        "Advanced Analytics"
+      ],
+      "price": 120,
+      "status": "available",
+      "pictures": [
+        "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-002.JPG",
+        "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-003.JPG"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Futa Template",
+      "description": "Futa educational template with learning hub functionality",
+      "version": "1.0.0",
+      "lastModified": "2025-01-15T10:00:00Z",
+      "downloadLink": "https://github.com/ProdevappOFFICIAL/static-db/raw/refs/heads/main/learning-hub-template.zip",
+      "previewImage": "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-004.JPG",
+      "category": "academic",
+      "tags": ["futa", "educational", "learning", "hub"],
+      "visible": true,
+      "featured": false,
+      "compatibility": {
+        "minAppVersion": "1.0.0",
+        "maxAppVersion": null
+      },
+      "changelog": {
+        "1.0.0": [
+          "Initial release",
+          "Learning hub features implemented"
+        ]
+      },
+      "updatePriority": "stable",
+      "fileSize": "2.9MB",
+      "author": {
+        "name": "ProdevApp Team",
+        "email": "support@prodevapp.com"
+      },
+      "license": "MIT",
+      "dependencies": [],
+      "features": [
+        "Learning Hub",
+        "Educational Features",
+        "Futa Integration",
+        "Student Management"
+      ],
+      "price": 60,
+      "status": "available",
+      "pictures": [
+        "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-004.JPG",
+        "https://raw.githubusercontent.com/ProdevappOFFICIAL/Template-MarketPlace/refs/heads/main/LDS-005.JPG"
+      ]
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2025-01-15T10:30:00Z",
+    "version": "1.0.0",
+    "totalTemplates": 12,
+    "categories": ["exam", "academic", "quiz", "survey", "internal"],
+    "updateFrequency": "weekly"
   }
-]
+}
