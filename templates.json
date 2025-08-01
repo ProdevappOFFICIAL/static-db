@@ -1,97 +1,55 @@
-{
-  "templates": [
-    {
-      "id": "template_001",
-      "name": "Modern Exam Template",
-      "description": "A sleek and modern template for online examinations with responsive design",
-      "version": "2.1.0",
-      "lastModified": "2025-01-15T10:30:00Z",
-      "downloadLink": "https://github.com/user/repo/releases/download/v2.1.0/modern-exam-template.zip",
-      "previewImage": "https://example.com/previews/modern-exam.jpg",
-      "category": "exam",
-      "tags": ["modern", "responsive", "exam", "learning"],
-      "visible": true,
-      "featured": true,
-      "compatibility": {
-        "minAppVersion": "1.0.0",
-        "maxAppVersion": null
-      },
-      "changelog": {
-        "2.1.0": [
-          "Added dark mode support",
-          "Improved mobile responsiveness",
-          "Fixed timer display issues"
-        ],
-        "2.0.0": [
-          "Complete UI redesign",
-          "Added new question types",
-          "Performance improvements"
-        ]
-      },
-      "updatePriority": "recommended",
-      "fileSize": "2.5MB",
-      "author": {
-        "name": "LearningDeck Team",
-        "email": "support@learningdeck.com"
-      },
-      "license": "MIT",
-      "dependencies": [],
-      "features": [
-        "Responsive Design",
-        "Timer Functionality",
-        "Multiple Question Types",
-        "Progress Tracking"
+[
+  {
+    "id": "template_001",
+    "name": "Modern Exam Template",
+    "description": "A sleek and modern template for online examinations with responsive design",
+    "version": "2.1.0",
+    "lastModified": "2025-01-15T10:30:00Z",
+    "downloadLink": "https://github.com/user/repo/releases/download/v2.1.0/modern-exam-template.zip",
+    "previewImage": "https://example.com/previews/modern-exam.jpg",
+    "category": "exam",
+    "tags": ["modern", "responsive", "exam", "learning"],
+    "visible": true,
+    "featured": true,
+    "changelog": {
+      "2.1.0": [
+        "Added dark mode support",
+        "Improved mobile responsiveness", 
+        "Fixed timer display issues"
+      ],
+      "2.0.0": [
+        "Complete UI redesign",
+        "Added new question types",
+        "Performance improvements"
       ]
     },
-    {
-      "id": "template_002", 
-      "name": "UTSC Exam Template",
-      "description": "University-style examination template with academic formatting",
-      "version": "1.8.2",
-      "lastModified": "2025-01-10T14:20:00Z",
-      "downloadLink": "https://github.com/user/repo/releases/download/v1.8.2/utsc-exam-template.zip",
-      "previewImage": "https://example.com/previews/utsc-exam.jpg",
-      "category": "academic",
-      "tags": ["university", "academic", "formal", "learning"],
-      "visible": true,
-      "featured": false,
-      "compatibility": {
-        "minAppVersion": "1.0.0",
-        "maxAppVersion": null
-      },
-      "changelog": {
-        "1.8.2": [
-          "Fixed header alignment",
-          "Updated font styles",
-          "Minor bug fixes"
-        ],
-        "1.8.0": [
-          "Added student information section",
-          "Improved print layout",
-          "Enhanced accessibility"
-        ]
-      },
-      "updatePriority": "optional",
-      "fileSize": "1.8MB",
-      "author": {
-        "name": "Academic Templates",
-        "email": "academic@templates.com"
-      },
-      "license": "Creative Commons",
-      "dependencies": [],
-      "features": [
-        "Academic Layout",
-        "Print Optimized",
-        "Student Info Section",
-        "Formal Styling"
+    "updatePriority": "recommended",
+    "fileSize": "2.5MB",
+    "author": "LearningDeck Team",
+    "license": "MIT"
+  },
+  {
+    "id": "template_002",
+    "name": "UTSC Exam Template", 
+    "description": "University-style examination template with academic formatting",
+    "version": "1.8.2",
+    "lastModified": "2025-01-10T14:20:00Z",
+    "downloadLink": "https://github.com/user/repo/releases/download/v1.8.2/utsc-exam-template.zip",
+    "previewImage": "https://example.com/previews/utsc-exam.jpg",
+    "category": "academic",
+    "tags": ["university", "academic", "formal", "learning"],
+    "visible": true,
+    "featured": false,
+    "changelog": {
+      "1.8.2": [
+        "Fixed header alignment",
+        "Updated font styles", 
+        "Minor bug fixes"
       ]
-    }
-  ],
-  "metadata": {
-    "lastUpdated": "2025-01-15T10:30:00Z",
-    "version": "1.0.0",
-    "totalTemplates": 2,
-    "categories": ["exam", "academic", "quiz", "survey"],
-    "updateFrequency": "weekly"
+    },
+    "updatePriority": "optional",
+    "fileSize": "1.8MB",
+    "author": "Academic Templates",
+    "license": "Creative Commons"
   }
-}
+]
