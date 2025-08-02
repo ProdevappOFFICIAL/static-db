@@ -4,7 +4,7 @@
     "name": "LearningDeck Client",
     "description": "Official LearningDeck Client for doing examinations and test",
     "version": "2.1.2",
-    "lastModified": "2025-01-15T10:30:00Z",
+    "lastModified": "2025-08-02T10:30:00Z",
     "downloadLink": "https://prodevappofficial.github.io/static-db/lds_template.zip",
     "previewImage": "https://prodevappofficial.github.io/static-db/homepage.lds.web.JPG",
      "pictures": ["https://prodevappofficial.github.io/static-db/homepage.lds.web.JPG", "https://prodevappofficial.github.io/static-db/examsetting.lds.web.JPG" ,"https://prodevappofficial.github.io/static-db/exam.page.lds.web.JPG"],
@@ -13,19 +13,19 @@
     "visible": true,
     "featured": true,
     "changelog": {
-      "1.0.0": [
+      "2.1.1": [
         "Added dark mode support",
         "Improved mobile responsiveness", 
         "Fixed timer display issues"
       ],
-      "1.0.1": [
+      "2.1.2": [
         "Complete UI redesign",
         "School Icon added",
         "Performance improvements"
       ]
     },
     "updatePriority": "recommended",
-    "fileSize": "300KB",
+    "fileSize": "531KB",
     "author": "LearningDeck Team",
     "license": "MIT"
   },
