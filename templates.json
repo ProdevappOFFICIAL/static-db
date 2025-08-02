@@ -3,12 +3,12 @@
     "id": "template_001",
     "name": "LearningDeck Client",
     "description": "Official LearningDeck Client for doing examinations and test",
-    "version": "2.1.1",
+    "version": "2.1.2",
     "lastModified": "2025-01-15T10:30:00Z",
     "downloadLink": "https://prodevappofficial.github.io/static-db/lds_template.zip",
     "previewImage": "https://prodevappofficial.github.io/static-db/homepage.lds.web.JPG",
      "pictures": ["https://prodevappofficial.github.io/static-db/homepage.lds.web.JPG", "https://prodevappofficial.github.io/static-db/examsetting.lds.web.JPG" ,"https://prodevappofficial.github.io/static-db/exam.page.lds.web.JPG"],
-    "category": "exam",
+    "category": "General examination",
     "tags": ["LearningDeck Web Client", "responsive", "exam", "test"],
     "visible": true,
     "featured": true,
@@ -18,9 +18,9 @@
         "Improved mobile responsiveness", 
         "Fixed timer display issues"
       ],
-      "1.0.0": [
+      "1.0.1": [
         "Complete UI redesign",
-        "Added new question types",
+        "School Icon added",
         "Performance improvements"
       ]
     },
