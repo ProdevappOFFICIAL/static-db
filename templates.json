@@ -1,9 +1,9 @@
 [
   {
     "id": "template_001",
-    "name": "LearningDeck Client v1.0.5",
+    "name": "LearningDeck Client v1.0.4",
     "description": "Official LearningDeck Client for doing examinations and test",
-    "version": "2.1.3",
+    "version": "2.1.4",
     "lastModified": "2025-08-02T10:30:00Z",
     "downloadLink": "https://prodevappofficial.github.io/static-db/lds_template.zip",
     "previewImage": "https://prodevappofficial.github.io/static-db/homepage.lds.web.JPG",
