@@ -7,6 +7,7 @@
     "lastModified": "2025-01-15T10:30:00Z",
     "downloadLink": "https://prodevappofficial.github.io/static-db/lds_template.zip",
     "previewImage": "https://prodevappofficial.github.io/static-db/homepage.lds.web.JPG",
+     "pictures": ["https://prodevappofficial.github.io/static-db/homepage.lds.web.JPG", "https://prodevappofficial.github.io/static-db/examsetting.lds.web.JPG" ,"https://prodevappofficial.github.io/static-db/exam.page.lds.web.JPG"],
     "category": "exam",
     "tags": ["LearningDeck Web Client", "responsive", "exam", "test"],
     "visible": true,
