@@ -3,7 +3,7 @@
     "id": "template_001",
     "name": "LearningDeck Client v1.0.4",
     "description": "Official LearningDeck Client for doing examinations and test",
-    "version": "2.1.6",
+    "version": "2.1.7",
     "lastModified": "2025-08-02T10:30:00Z",
     "downloadLink": "https://prodevappofficial.github.io/static-db/lds_template.zip",
     "previewImage": "https://prodevappofficial.github.io/static-db/homepage.lds.web.JPG",
@@ -14,14 +14,15 @@
     "featured": true,
     "changelog": {
       "2.1.2": [
-        "Added dark mode support",
+        "Increase Load Speed",
         "Improved mobile responsiveness", 
         "Fixed timer display issues"
       ],
       "2.1.3": [
         "Complete UI redesign",
         "School Icon added",
-        "Performance improvements"
+        "Performance improvements",
+         "Fixed Connection Issues"
       ]
     },
     "updatePriority": "recommended",
