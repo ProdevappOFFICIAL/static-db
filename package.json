@@ -1,0 +1,16 @@
+{
+  "name": "active-development",
+  "version": "1.0.0",
+  "description": "An actively developed project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest",
+    "build": "webpack --mode=production",
+    "dev": "webpack serve --mode=development"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "webpack": "^5.0.0"
+  }
+}
