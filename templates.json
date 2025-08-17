@@ -32,6 +32,31 @@
   },
   {
     "id": "template_002",
+    "name": "Exam Matrix Template", 
+    "description": "Clean Examination Template for Exam formatting",
+    "version": "1.8.2",
+    "lastModified": "2025-01-10T14:20:00Z",
+    "downloadLink": "https://github.com/user/repo/releases/download/v1.8.2/utsc-exam-template.zip",
+      "pictures": ["https://prodevappofficial.github.io/static-db/exam_matrix.JPG", "https://prodevappofficial.github.io/static-db/exam_matrix_testid.JPG"],
+    "previewImage": "https://prodevappofficial.github.io/static-db/homepage.lds.web.JPG",
+    "category": "academic",
+    "tags": ["university", "academic", "formal", "learning"],
+    "visible": true,
+    "featured": false,
+    "changelog": {
+      "1.8.2": [
+        "Fixed header alignment",
+        "Updated font styles", 
+        "Minor bug fixes"
+      ]
+    },
+    "updatePriority": "optional",
+    "fileSize": "1.8MB",
+    "author": "Academic Templates",
+    "license": "Creative Commons"
+  },
+   {
+    "id": "template_003",
     "name": "UTSC Exam Template", 
     "description": "University-style examination template with academic formatting",
     "version": "1.8.2",
