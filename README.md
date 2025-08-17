@@ -5,3 +5,4 @@
 - Sun Aug 17 07:17:11 UTC 2025: Add offline mode support
 - Sun Aug 17 07:19:55 UTC 2025: Fix security vulnerabilities
 - Sun Aug 17 07:22:20 UTC 2025: Implement data export feature
+- Documentation updated: Add unit tests for core functions
