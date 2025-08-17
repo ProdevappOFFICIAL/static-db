@@ -8,3 +8,4 @@
 - Documentation updated: Add unit tests for core functions
 - Sun Aug 17 07:29:42 UTC 2025: Fix CSS styling issues on mobile
 - Sun Aug 17 07:32:04 UTC 2025: Implement rate limiting
+- Sun Aug 17 07:49:37 UTC 2025: Add keyboard navigation support
