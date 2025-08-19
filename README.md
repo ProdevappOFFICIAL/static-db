@@ -37,3 +37,4 @@
 - Documentation updated: Create admin dashboard interface
 - Documentation updated: Update dependencies to latest versions
 - Documentation updated: Fix security vulnerabilities
+- Documentation updated: Add password strength validation
