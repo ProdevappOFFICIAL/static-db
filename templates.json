@@ -7,7 +7,7 @@
     "lastModified": "2025-08-02T10:30:00Z",
     "downloadLink": "https://prodevappofficial.github.io/static-db/lds_template.zip",
     "previewImage": "https://prodevappofficial.github.io/static-db/homepage.lds.web.JPG",
-     "pictures": ["https://prodevappofficial.github.io/static-db/homepage.lds.web.JPG", "https://prodevappofficial.github.io/static-db/examsetting.lds.web.JPG" ,"https://prodevappofficial.github.io/static-db/exam.page.lds.web.JPG"],
+     "pictures": ["https://prodevappofficial.github.io/static-db/examsetting.lds.web.JPG" ,"https://prodevappofficial.github.io/static-db/exam.page.lds.web.JPG"],
     "category": "General examination",
     "tags": ["LearningDeck Web Client", "responsive", "exam", "test"],
     "visible": true,
