@@ -1,0 +1,26 @@
+{
+  "identifier": "com.learningdeck.lds-template",
+ "Icon": "https://example.com/assets/icon.png",
+  "name": "Your Project Name",
+ "description": "A short description of what your project or extension does.",
+ "author": "Your Name or Company",
+ "version": "1.0.0",
+ "detailsreadmelink": "https://github.com/yourusername/repo/blob/main/README-details.md",
+"featurereadmelink": "https://github.com/yourusername/repo/blob/main/README-features.md",
+"changelogreadmelink": "https://github.com/yourusername/repo/blob/main/CHANGELOG.md",
+"type": "template",
+"size": "2.4 MB"
+}, 
+{
+  "identifier": "com.learningdeck.lds-templats",
+ "Icon": "https://example.com/assets/icon.png",
+  "name": "Your Project Name",
+ "description": "A short description of what your project or extension does.",
+ "author": "Your Name or Company",
+ "version": "1.0.0",
+ "detailsreadmelink": "https://github.com/yourusername/repo/blob/main/README-details.md",
+"featurereadmelink": "https://github.com/yourusername/repo/blob/main/README-features.md",
+"changelogreadmelink": "https://github.com/yourusername/repo/blob/main/CHANGELOG.md",
+"type": "template",
+"size": "2.4 MB"
+}, 
