@@ -1,6 +1,6 @@
 [{
   "identifier": "com.learningdeck.lds-template",
- "Icon": "https://example.com/assets/icon.png",
+ "Icon": "https://avatars.githubusercontent.com/u/225484805?s=48&v=4",
   "name": "Your Project Name",
  "description": "A short description of what your project or extension does.",
  "author": "Your Name or Company",
@@ -13,7 +13,7 @@
 }, 
 {
   "identifier": "com.learningdeck.lds-templats",
- "Icon": "https://example.com/assets/icon.png",
+ "Icon": "https://avatars.githubusercontent.com/u/225484805?s=48&v=4",
   "name": "Your Project Name",
  "description": "A short description of what your project or extension does.",
  "author": "Your Name or Company",
