@@ -1,6 +1,6 @@
 [
   {
-    "identifier": "com.learningdeck.lds-template",
+    "identifier": "com.learningdeck.lds-plugins",
     "Icon": "https://avatars.githubusercontent.com/u/225484805?s=48&v=4",
     "name": "LearningDeck Template",
     "description": "A neo-brutalist starter template for LearningDeck infrastructure.",
