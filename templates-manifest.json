@@ -5,11 +5,11 @@
   "name": "LearningDeck Web Client",
  "description": "A Visual Interface for Writing Exams and Tests",
  "author": "Prudence Oyewale",
- "version": "1.0.0",
+ "version": "1.0.1",
  "detailsreadmelink": "https://github.com/yourusername/repo/blob/main/README-details.md",
 "featurereadmelink": "https://github.com/yourusername/repo/blob/main/README-features.md",
 "changelogreadmelink": "https://github.com/yourusername/repo/blob/main/CHANGELOG.md",
-"link": "https://prodevappofficial.github.io/static-db/lds-template.zip",
+"link": "https://prodevappofficial.github.io/static-db/lds_template.zip",
 "type": "template",
 "size": "0.8 MB"
 }
