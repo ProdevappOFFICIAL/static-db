@@ -1,15 +1,15 @@
 [
   {
-    "identifier": "com.learningdeck.lds-plugins",
+    "identifier": "com.learningdeck.plugin.result-automator",
     "Icon": "https://avatars.githubusercontent.com/u/225484805?s=48&v=4",
-    "name": "LearningDeck Template",
-    "description": "A neo-brutalist starter template for LearningDeck infrastructure.",
+    "name": "LearningDeck Result Automator",
+    "description": "A result automator that helps create bulk docs results",
     "author": "Prudence Oyewale",
     "version": "1.0.0",
     "detailsreadmelink": "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/refs/heads/main/README.md",
     "featurereadmelink": "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/refs/heads/main/README.md",
     "changelogreadmelink": "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/refs/heads/main/README.md",
-    "type": "template",
-    "size": "1.2MB"
+    "link": "https://updated-plugin-manager-lds-b7bz.vercel.app",
+    "type": "plugin"
   }
 ]
