@@ -6,9 +6,9 @@
     "description": "A result automator that helps create bulk docs results",
     "author": "Prudence Oyewale",
     "version": "1.0.0",
-    "detailsreadmelink": "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/refs/heads/main/README.md",
-    "featurereadmelink": "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/refs/heads/main/README.md",
-    "changelogreadmelink": "https://raw.githubusercontent.com/ProdevappOFFICIAL/static-db/refs/heads/main/README.md",
+    "detailsreadmelink": "https://raw.githubusercontent.com/ProdevappOFFICIAL/Result-Automator-Template/refs/heads/main/details.md",
+    "featurereadmelink": "https://raw.githubusercontent.com/ProdevappOFFICIAL/Result-Automator-Template/refs/heads/main/features.md",
+    "changelogreadmelink": "https://raw.githubusercontent.com/ProdevappOFFICIAL/Result-Automator-Template/refs/heads/main/changelog.md",
     "link": "https://updated-plugin-manager-lds-b7bz.vercel.app",
     "type": "plugin"
   }
