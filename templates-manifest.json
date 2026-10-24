@@ -12,5 +12,19 @@
 "link": "https://prodevappofficial.github.io/static-db/lds_template.zip",
 "type": "template",
 "size": "526 KB"
+},
+{
+  "identifier": "com.learnwithuncletee.app",
+ "Icon": "https://www.learnwithuncletee.org/logo.png",
+  "name": "Learnwithuncletee UTSS",
+ "description": "Learnwithuncletee UTSS Exam Template",
+ "author": "Prudence Oyewale",
+ "version": "1.0.0",
+ "detailsreadmelink": "https://github.com/yourusername/repo/blob/main/README-details.md",
+"featurereadmelink": "https://github.com/yourusername/repo/blob/main/README-features.md",
+"changelogreadmelink": "https://github.com/yourusername/repo/blob/main/CHANGELOG.md",
+"link": "https://prodevappofficial.github.io/static-db/utss_template.zip",
+"type": "template",
+"size": "526 KB"
 }
 ]
